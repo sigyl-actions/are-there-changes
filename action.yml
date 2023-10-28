@@ -1,4 +1,4 @@
-name: are-there-changes
+name: check-for-changes
 description: are there changes?
 branding:
   icon: package
